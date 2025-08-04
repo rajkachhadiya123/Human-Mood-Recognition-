@@ -33,7 +33,4 @@ This project applies **Transfer Learning** to fine-tune powerful CNNs on a label
 - Comparison of multiple models based on accuracy
 - **Real-time mood recognition** using custom/test images
 
----
-
-## 📁 Folder Structure (Google Drive Integration)
 
